@@ -43,13 +43,6 @@ nav {
   border-bottom: solid 0.7px #000000;    
 }
 
-nav {
-  width: 880px;
-  margin: 0auto;
-  border-top: solid 0.7px #000000;
-  border-bottom: solid 0.7px #000000;
-}
-
 .nav-list {
   text-align: center;
   padding: 10px 0;
@@ -57,7 +50,7 @@ nav {
 }
 
 .nav-list-item {
-  text-style: none;
+  list-style: none;
   display: inline-block;
   margin: 0 20px;
 }
@@ -102,3 +95,4 @@ main {
   white-space: nowrap;
   text-overflow: ellipsis;
 }
+
